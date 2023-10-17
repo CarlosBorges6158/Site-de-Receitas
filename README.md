@@ -17,11 +17,12 @@ Bem-vind@s ao site de Receitas da Evy, o seu destino para descobrir e compartilh
 
 ## Instalação
 
-Não é necessário instalação. O site pode ser acessado diretamente na web em [www.receitasdeliciosas.com](http://www.receitasdeliciosas.com).
+Não é necessário instalação. O site pode ser acessado diretamente na web em [Receitas da Evy](https://carlosborges6158.github.io/site-de-receitas/).
 
 ## Como Usar
 
-- Acesse [www.receitasdeliciosas.com](http://www.receitasdeliciosas.com) para visitar a página inicial com uma mensagem de boas-vindas.
+- Acesse [Receitas da Evy](https://carlosborges6158.github.io/site-de-receitas/)
+ para visitar a página inicial com uma mensagem de boas-vindas.
 - Use o menu na parte superior para navegar pelo site:
   - **Home**: Volte à página inicial.
   - **Receitas**: Explore as receitas cadastradas por meio de cards.
