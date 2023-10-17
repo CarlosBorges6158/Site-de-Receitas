@@ -1,0 +1,33 @@
+.receitas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    overflow-y: auto;
+    max-height: calc(100vh - 160px);  
+}
+
+.receita {
+    width: 300px;
+    border-style: solid ;
+    border-color: #FFD6EC;
+    border-radius: 5px;
+    box-shadow: 10px 10px#FFD6EC;
+}
+
+
+.receita img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+hr {
+    border-bottom: 2px solid #FFD6EC;
+
+    
+}
+
+
+
